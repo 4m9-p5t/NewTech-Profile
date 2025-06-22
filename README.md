@@ -5,7 +5,7 @@
 - **Nama**: New Tech
 - **Status**: Mahasiswa Teknik Elektro  
 - **Email**: technew496@gmail.com
-- **GitHub**: [github.com/4m9-p5t/NewTech](#)  
+- **GitHub**: [github.com/4m9-p5t](#)  
 - **Instagram**: [@newte.ch23](#)  
 - **Domisili**: Indonesia  
 
@@ -42,4 +42,4 @@ Saya adalah mahasiswa Teknik Elektro yang memiliki keahlian di bidang koding dan
 ## 📞 Kontak
 - **Email**: technew496@gmail.com  
 - **Instagram**: [@newte.ch23](#)  
-- **GitHub**: [github.com/4m9-p5t/NewTech](#)  
+- **GitHub**: [github.com/4m9-p5t](#)  
